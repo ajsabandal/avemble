@@ -9,6 +9,8 @@ A little project to make use of Laravel.
 
 ## Prerequisites
 - [Composer](https://getcomposer.org/doc/00-intro.md)
+- [Laravel](https://laravel.com/docs/6.0#installing-laravel)
+- [PHP](https://php-osx.liip.ch)
 
 ## References
 - [Laravel PHP Framework Tutorial - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
