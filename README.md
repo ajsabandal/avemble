@@ -15,3 +15,6 @@ A little project to make use of Laravel.
 ## References
 - [Laravel PHP Framework Tutorial - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 - [Laravel Documentation](https://laravel.com/docs/6.0)
+
+## Commands
+- Run the server with `php artisan serve`
