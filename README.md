@@ -1,20 +1,24 @@
-# Avemble
+# README
 
-A little project to make use of Laravel.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Planned Features
-- Create your own Avengers team of 5 based on your current points
-- Save the team on your profile
-- You'll earn more points depending on how old your account is
+Things you may want to cover:
 
-## Prerequisites
-- [Composer](https://getcomposer.org/doc/00-intro.md)
-- [Laravel](https://laravel.com/docs/6.0#installing-laravel)
-- [PHP](https://php-osx.liip.ch)
+* Ruby version
 
-## References
-- [Laravel PHP Framework Tutorial - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
-- [Laravel Documentation](https://laravel.com/docs/6.0)
+* System dependencies
 
-## Commands
-- Run the server with `php artisan serve`
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
